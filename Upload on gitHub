@@ -1,0 +1,8 @@
+go to ur folder of code ... checking by doing ls
+git init
+git add -A
+git commit -m "First commit"
+git remote add origin https://github.com/ishu22994/teamProject2.git
+for checking .. git remote -v
+git push -u origin master
+
